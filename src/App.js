@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there! Learning Docker. Hot reload works. Yet another test. Great
+          I was changed in the branch features
         </p>
         <a
           className="App-link"
